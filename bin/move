@@ -7,4 +7,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 gets.strip
-index = "input_to_index".method(user_input:+)
+index = "input_to_index".method
